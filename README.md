@@ -41,4 +41,4 @@ This is a personal learning repository, but feel free to explore and learn along
 
 ---
 
-⭐ If you find this useful, feel free to star the repo!
+⭐ If you find this useful, feel free to star the repo
