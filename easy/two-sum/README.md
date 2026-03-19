@@ -15,7 +15,7 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 ### Brute Force (solution_brute.py)
 - Compare the sum of every pair of elements to the target
 - Time Complexity: O(n²)
-- Space complexity: O(n)
+- Space complexity: O(1)
 
 ### Optimized Approach (Hashmap - `solution_hashmap.py`)
 - Instead of checking all pairs, store previously seen numbers in a hashmap
