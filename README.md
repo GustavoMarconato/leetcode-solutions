@@ -5,7 +5,7 @@ Welcome! 👋
 This repository contains my solutions to algorithm and data structure problems from LeetCode and NeetCode.
 
 ## 🚀 About
-- 📚 Currently learning: Data Structures & Algorithms
+- 📚 Currently learning: Arrays and Hashing
 - 🐍 Language: Python
 - 🎯 Goal: Improve problem-solving skills and prepare for technical interviews
 
