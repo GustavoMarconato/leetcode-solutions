@@ -15,7 +15,7 @@ Explanation:
 nums[0] + nums[1] = 2 + 7 = 9
 
 
-## Brute Force Approach (Solution1)
+## Brute Force Approach (`solution_brute.py`)
 
 ### Idea
 Check every possible pair of numbers to see if they sum to the target
@@ -32,7 +32,7 @@ Check every possible pair of numbers to see if they sum to the target
 - Time: O(n²)
 - Space: O(1)
 
-## Optimized Approach (Hashmap - Solution2)
+## Optimized Approach (Hashmap - `solution_hashmap.py`)
 
 ### Idea
 Instead of checking all pairs, store previously seen numbers in a hashmap
