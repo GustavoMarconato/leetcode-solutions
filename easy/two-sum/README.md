@@ -23,7 +23,7 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 - Space complexity: O(n)
 
 ## Implementations
-- Brute Force -> `solutin_brute.py`
+- Brute Force -> `solution_brute.py`
 - Optimized -> `solution_hashmap.py`
 
 ## Topics
