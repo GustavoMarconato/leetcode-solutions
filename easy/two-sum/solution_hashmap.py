@@ -4,9 +4,9 @@ class Solution:
         hashmap = {}
 
         for i, num in enumerate(nums):
-            complemento = target - num
+            complement = target - num
 
             if complemento in hashmap:
-                return [hashmap[complemento], i]
+                return [hashmap[complement], i]
 
             hashmap[num] = i
